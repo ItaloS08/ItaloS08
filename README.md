@@ -1,4 +1,4 @@
-## Seja bem vindo(a). Eu sou o ItaloS08, iniciante em desenvolvimento Front-end!
+## Seja bem vindo(a). Meu nome é Italo, sou iniciante em desenvolvimento Front-end!
 <div align="center">
   <a href="https://github.com/ItaloS08">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaloS08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
